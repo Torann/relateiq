@@ -2,7 +2,7 @@
     "name": "torann/relateiq",
     "description": "RelateIQ API v2 client for Laravel & standalone projects.",
     "keywords": ["laravel", "laravel4", "relateiq", "api", "wrapper", "standalone"],
-    "license": "BSD 2-Clause",
+    "license": "BSD-2-Clause",
     "authors": [
         {
             "name": "Daniel Stainback",
